@@ -36,11 +36,12 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
 
 ## 📊 Estadísticas de GitHub
 
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdiP0220&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdiP0220&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiP0220&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiP0220&layout=compact&theme=tokyonight&hide_border=true&v=2" width="48%" />
 
 </div>
 
