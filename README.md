@@ -30,7 +30,7 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,linux,bash&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,bash&perline=4" />
 
 </div>
 
