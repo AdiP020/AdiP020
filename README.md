@@ -39,9 +39,9 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdiP0220&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AdiP020&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiP0220&layout=compact&theme=tokyonight&hide_border=true&v=2" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiP020&layout=compact&theme=tokyonight&hide_border=true&v=2" width="48%" />
 
 </div>
 
@@ -49,7 +49,7 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AdiP0220&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AdiP020&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -57,7 +57,7 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
 
 <div align="center">
 
-[![Repositorios](https://img.shields.io/badge/Ver_mis_repositorios-2C5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiP0220?tab=repositories)
+[![Repositorios](https://img.shields.io/badge/Ver_mis_repositorios-2C5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiP020?tab=repositories)
 
 </div>
 
