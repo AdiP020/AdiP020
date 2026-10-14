@@ -80,10 +80,6 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
   <img src="https://img.shields.io/badge/🌷_Explora_mis_repositorios-3D1932?style=for-the-badge&logo=github&logoColor=FF79C6&labelColor=1A0B16" alt="Explora mis repositorios" />
 </a>
 
-<a href="https://github.com/AdiP020">
-  <img src="https://img.shields.io/badge/💗_Visita_mi_perfil-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=C2185B" alt="Visita mi perfil de GitHub" />
-</a>
-
 </div>
 
 ## 🎯 Mis objetivos
