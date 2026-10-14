@@ -45,14 +45,6 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
 
 </div>
 
-## 🔥 Racha de contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AdiP020&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ## 📁 Mis proyectos
 
 <div align="center">
