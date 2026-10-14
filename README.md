@@ -58,20 +58,33 @@ cuatrimestre y me interesa seguir creciendo en el desarrollo de software.
 
 ## 📊 Estadísticas de GitHub
 
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdiP020&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdiP0220&show_icons=true&rank_icon=github&theme=radical&hide_border=true&bg_color=1A0B16&title_color=FF79C6&icon_color=FF69B4&text_color=F8DCEB&cache_seconds=86400" alt="Estadísticas de GitHub de Adilene" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiP020&layout=compact&theme=tokyonight&hide_border=true&v=2" width="48%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdiP0220&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1A0B16&title_color=FF79C6&text_color=F8DCEB&cache_seconds=86400" alt="Lenguajes más utilizados" />
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiP0220&theme=radical&hide_border=true&background=1A0B16&ring=FF79C6&fire=FF69B4&currStreakLabel=FF79C6&sideLabels=F8DCEB&currStreakNum=FF69B4&sideNums=FF69B4&dates=C9A3B8" alt="Racha de actividad en GitHub" />
 
 </div>
 
-## 📁 Mis proyectos
+---
+
+## 🌸 Mis proyectos
 
 <div align="center">
 
-[![Repositorios](https://img.shields.io/badge/Ver_mis_repositorios-2C5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdiP020?tab=repositories)
+<a href="https://github.com/AdiP0220?tab=repositories">
+  <img src="https://img.shields.io/badge/🌷_Explora_mis_repositorios-3D1932?style=for-the-badge&logo=github&logoColor=FF79C6&labelColor=1A0B16" alt="Explora mis repositorios" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/AdiP0220">
+  <img src="https://img.shields.io/badge/💗_Visita_mi_perfil-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=C2185B" alt="Visita mi perfil de GitHub" />
+</a>
 
 </div>
 
