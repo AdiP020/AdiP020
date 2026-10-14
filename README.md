@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Adilene
-``
+
 ### 💻 Estudiante de Ingeniería en Tecnologías
 
 Desarrolladora en formación | Java ☕ | Python 🐍 | MySQL 🗄️
