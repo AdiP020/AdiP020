@@ -7,7 +7,7 @@
 
 Desarrolladora en formación | Java ☕ | Python 🐍 | MySQL 🗄️
 
-[![GitHub](https://img.shields.io/badge/GitHub-AdiP0220-181717?style=for-the-badge&logo=github)](https://github.com/AdiP0220)
+[![GitHub](https://img.shields.io/badge/GitHub-AdiP020-181717?style=for-the-badge&logo=github)](https://github.com/AdiP0220)
 
 </div>
 
